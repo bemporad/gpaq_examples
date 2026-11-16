@@ -3,7 +3,7 @@ Condensed game-theoretic MPC: gPAQ vs dr-daqp and Operator Extrapolation (OE)
 for different prediction horizons T and random operating points.
 
 A. Bemporad and T. Tatarenko, "A Parametric Active-Set Algorithm for
-Solving Monotone Generalized Nash Equilibrium Problems," 2026.
+Solving Monotone Generalized Nash Equilibrium Problems," arXiv 2611.18351, 2026.
 
 (C) 2026 A. Bemporad
 """

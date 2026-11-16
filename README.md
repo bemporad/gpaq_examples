@@ -3,7 +3,8 @@
 Code to reproduce the numerical results of the paper
 
 > A. Bemporad and T. Tatarenko,
-> "A Parametric Active-Set Algorithm for Solving Monotone Generalized Nash Equilibrium Problems," 2026.
+> "A Parametric Active-Set Algorithm for Solving Monotone Generalized Nash Equilibrium Problems," 
+> [arXiv 2611.18351](https://arxiv.org/abs/2611.18351), 2026.
 
 The paper introduces two solvers:
 
@@ -145,6 +146,7 @@ python example_comparisons_nl.py
 @article{BT26gpaq,
   author = {A. Bemporad and T. Tatarenko},
   title  = {A Parametric Active-Set Algorithm for Solving Monotone Generalized {Nash} Equilibrium Problems},
+  journal={\url{https://arxiv.org/abs/2611.18351}},
   year   = {2026},
 }
 
